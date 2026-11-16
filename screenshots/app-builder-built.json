@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Roadcrest Field Manual",
+      "hasCanvas": false,
+      "bodyTextLen": 15172,
+      "bodyTextHash": "d5429cd5932d6d6cf006d45a4b96c53b490cb7475e1fd149e889a03ea799386f",
+      "bodyTextPrefix": "ROADCREST LOGISTICS FIELD MANUAL MANUAL RATE DESK WEIGHT LINE SE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Roadcrest Field Manual",
+      "hasCanvas": false,
+      "bodyTextLen": 15139,
+      "bodyTextHash": "ff2978977b769e5a820a576e0fbd7f16fbaabb2398283fd2936bfa6defd33f92",
+      "bodyTextPrefix": "ROADCREST LOGISTICS OWNER-OPERATOR FIELD MANUAL READ THIS BEFORE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
